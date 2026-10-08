@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+data/
+.venv/
+.DS_Store
+# keep trained models small enough to commit; remove next line to ignore them
+# models/
